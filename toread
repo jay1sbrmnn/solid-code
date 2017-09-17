@@ -1,0 +1,51 @@
+
+https://www.quora.com/Where-can-I-find-some-good-Java-practice-problems
+
+
+To study collections heavily in java 8 :
+
+
+Lots and lots od coding practice as possible?
+
+-------------------------------------------------
+
+comparable and comparator interface for sure?
+why string is immutable in java?
+all traditional interview questions?
+
+--------------------------------------------
+
+print duplicate characters from string?
+check if two string are anograms or not?
+count the number of words in a string?
+total number of occurences of a given character in a string without a loop?
+program to reverse a string?
+remove all white spaces from a string and print the output
+program to print first non repeated character from a string?
+reverse string using iteration and recursion? no API's
+String has only digits?
+reverse a given string with perserving the position of the spaces?
+reverse each word of a given string?
+count the number of vowels and consonents in a string?
+convert string to integer and integer to string in java?
+program to find all premutations of a string?
+string is a palindrome?
+remove duplicate characters from a string?
+append a given string to a text file?
+check if a string contains another string?
+program to remove a character from string?
+find the most repeated word in a text file in java?
+program to find repeated and non repeated character in a given string in java?
+find number of characters , number of words and number of lines in a text file?
+
+-------------------------------------------------------------------------------------
+
+array coding:
+
+find the missong number in integer array of 1 to 100
+first non epeating elements in array of integers?
+comapre two arrays in java
+sort the array elements?
+find duplicate number on integer array in java
+largest and smallest in a unsorted array?
+repeated numbers in a array if it contains multiple duplicate

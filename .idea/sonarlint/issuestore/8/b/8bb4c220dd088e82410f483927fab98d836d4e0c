@@ -1,0 +1,11 @@
+
+1squid:S1643"Use a StringBuilder instead.(Î¢À
+6squid:S2131"!Use "Character.toString" instead.(Î¢À
+N
+squid:S106";Replace this usage of System.out or System.err by a logger.(°•Ş
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ñ‚Öìüÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(½„¤‡
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(’•å»üÿÿÿÿ

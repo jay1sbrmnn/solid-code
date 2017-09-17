@@ -1,0 +1,25 @@
+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8âçÿúã+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(í¨Üô8âçÿúã+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8âçÿúã+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8âçÿúã+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8âçÿúã+
+_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(­²ÙÍ8âçÿúã+
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñğî»ıÿÿÿÿ8âçÿúã+
+U
+squid:S106";Replace this usage of System.out or System.err by a logger.(›ø¤8âçÿúã+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÜÜÀ¥8âçÿúã+
+Csquid:S1604"(Make this anonymous inner class a lambda(£·®8âçÿúã+
+Vsquid:S1161":Add the "@Override" annotation above this method signature(“–ış8âçÿúã+
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò¨Ìıÿÿÿÿ8âçÿúã+
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8âçÿúã+
+Dsquid:S1604"(Make this anonymous inner class a lambda(ÿïŞß8âçÿúã+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8âçÿúã+
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8âçÿúã+
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8âçÿúã+
+Vsquid:S1161":Add the "@Override" annotation above this method signature(“–ış8âçÿúã+
+[squid:S1118":Add a private constructor to hide the implicit public one.(æ¾Ñçúÿÿÿÿ8Èå†ûã+
+_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(­²ÙÍ8âçÿúã+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8âçÿúã+

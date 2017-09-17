@@ -1,0 +1,12 @@
+
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(Ä½ÊÃùÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(´Ö‰È
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Áµİ¼
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÆÈã§
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(´Ö‰È
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Áµİ¼

@@ -1,0 +1,66 @@
+Why Lambadas?
+
+  enables functional programming. we are used for object oriented programming.
+  Readable and concise code - certain situations offcource - eliminates boiler plate code. enabales to write bettter API's. Enables support for parellel processing, run in multi core. 
+
+  what functional programming lets you write more readable code and more maintainable code. The same reason we are not writing maching code in 
+  assembly language.
+
+  Look at the example of java 8 what have created for greater, we trying to pass in a behaviour which is object oriented programming. 
+  but instead of a behaviuour what if we want pass in an action, which is perform directly to the greet. 
+  Thats exactly why lambdas are for.  ( They are functions which exsist in isloation, and the functions can be passed as values as a parameter)
+
+say Inline values:
+
+String name = "foo";      data is a value, object is a value too, but up untill java8 we cannot pass a block of code as a value.
+
+
+in java 8 we can do the below:
+
+variable  =  public void perform() {
+        System.out.print("Hello World");
+    }
+
+    we dont need the public because its a function which exsists in isolation, and any body can access it who has access to the variable.
+    when we assign a block of code to a variable ti doesnt need another name.
+    java compiler is smart enough not to know the return type from java 8, so no need of the return type too.
+
+
+    variable = () -> { System.out.print("Hello World"); }
+
+    if the body is just one line we can do this:
+
+     variable = () ->  System.out.print("Hello World"); 
+
+
+
+WRITE MORE LAMBA ExPression:
+
+
+what is the type of the variable ? we will come back to that later.
+
+we can do this with the variable, we can call a method greet(variable)
+
+we can pass a the lambda directly for the functions greet(() ->  System.out.print("Hello World"))
+
+public int double(int a) { return a*2 ;}
+
+lambda would be 
+
+doubleValue = (int a) ->  return a*2 ;
+
+and if the lambda expression is one lne we can skip the return as well
+
+doubleValue = (int a) -> a * 2 ;
+
+
+lets do one more examples:
+
+public int add(int a, int b) { return a+b ; }
+
+lambda would be
+
+add(int a, int b) -> a + b;
+
+
+

@@ -1,0 +1,12 @@
+
+Dsquid:S1604"(Make this anonymous inner class a lambda(¼×¨™8Ø¤øã+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(‹ùçıÿÿÿÿ8Ø¤øã+
+Vsquid:S1161":Add the "@Override" annotation above this method signature(“–ış8Ø¤øã+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ø¤øã+
+Vsquid:S1161":Add the "@Override" annotation above this method signature(“–ış8Ø¤øã+
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Ø¤øã+
+Ysquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8“Ş¨øã+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ø¤øã+
+Isquid:S1604"(Make this anonymous inner class a lambda(ôâ…Æşÿÿÿÿ8Ø¤øã+
+Tsquid:S1213"8Move this variable to comply with Java Code Conventions.(˜ì’ˆ8“Ş¨øã+

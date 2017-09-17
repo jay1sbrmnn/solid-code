@@ -1,0 +1,12 @@
+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ª³‡ø8–´ğ³à+
+squid:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(½ÔŸùúÿÿÿÿ8ç‘Œ´à+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÜÎÔê8¤âö³à+
+U
+squid:S106";Replace this usage of System.out or System.err by a logger.(°•Ş8²âŒ´à+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ü’Ó÷øÿÿÿÿ8Ø™‹´à+
+Csquid:S1604"(Make this anonymous inner class a lambda(ô§ê8šÁõ³à+
+|squid:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(—ú÷Ú8—Ş„´à+
+Ysquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8–´ğ³à+

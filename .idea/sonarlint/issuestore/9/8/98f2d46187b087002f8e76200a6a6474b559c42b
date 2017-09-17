@@ -1,0 +1,24 @@
+
+7squid:S2438""Argument 1" is a "Thread".(Äî½ª8«çœñã+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(£é™8İ—Ğñã+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‹«÷ğã+
+Gsquid:S1481"&Remove this unused "j" local variable.(š£·´şÿÿÿÿ8ñ—ßñã+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ş¼£íúÿÿÿÿ8ñ—ßñã+
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ğ§…æøÿÿÿÿ
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ñ—ßñã+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‹«÷ğã+
+Vsquid:S1854"5Remove this useless assignment to local variable "j".(‹Àšûÿÿÿÿ8‹«÷ğã+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ—ßñã+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÈÁ£8‹«÷ğã+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(öÆ»ùÿÿÿÿ8Á˜Àñã+
+Csquid:S1604"(Make this anonymous inner class a lambda(¢Ç›H8®®Æñã+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(†µÍÿÿÿÿÿ8ŸùÇñã+
+Lsquid:S1481"+Remove this unused "runner" local variable.(ç¨°´üÿÿÿÿ8Á˜Àñã+
+[squid:S1854":Remove this useless assignment to local variable "runner".(ç¨°´üÿÿÿÿ8Á˜Àñã+
+[squid:S1118":Add a private constructor to hide the implicit public one.(ğ§…æøÿÿÿÿ8æÙõğã+
+Ysquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8æÙõğã+
+Gsquid:S1481"&Remove this unused "j" local variable.(‹Àšûÿÿÿÿ8‹«÷ğã+

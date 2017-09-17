@@ -1,0 +1,18 @@
+
+Hsquid:S1612",Replace this lambda with a method reference.(ùÏ°8ìó³à+
+U
+squid:S106";Replace this usage of System.out or System.err by a logger.(°•Ş8¦ı»³à+
+Hsquid:S1612",Replace this lambda with a method reference.(ËâÖ‘8ù®¡³à+
+Gsquid:S1612",Replace this lambda with a method reference.(ªÕ²{8£‚º³à+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ïı”Ğ8¢À£³à+
+U
+squid:S106";Replace this usage of System.out or System.err by a logger.(°•Ş8Íœ»³à+
+gsquid:S1854"KRemove this useless assignment to local variable "lengthLambdaWithoutType".(ùÏ°8ìó³à+
+Xsquid:S1481"<Remove this unused "lengthLambdaWithoutType" local variable.(ùÏ°8«–·³à+
+Msquid:S1612",Replace this lambda with a method reference.(¦À¥øÿÿÿÿ8ÌâŒ³à+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(éàØ8îŒ‘³à+
+psquid:S1609"TAnnotate the "StringLengthLambda" interface with the @FunctionalInterface annotation(ñÍ¯û8Ğ¶‰³à+
+Ksquid:S1611"/Remove the parentheses around the "s" parameter(ùÏ°8ìó³à+
+Ysquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Ğ¶‰³à+
